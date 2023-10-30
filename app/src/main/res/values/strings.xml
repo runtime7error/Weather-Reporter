@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="weather">☁️Weather Report☁️</string>
+    <string name="country_iso_code">CEP da Cidade :</string>
+    <string name="code">CEP</string>
+    <string name="city_name">Nome da Cidade :</string>
+    <string name="name">Cidade</string>
+    <string name="get">Consultar</string>
+    <string name="temperature">Temperatura</string>
+    <string name="current">Atual :</string>
+    <string name="minimum">Mínima :</string>
+    <string name="maximum">Máxima :</string>
+    <string name="Fields_cannot_be_empty">Os Campos não podem estar vazios</string>
+</resources>
